@@ -1,2 +1,6 @@
 "Hi👋, I'm Cyber X from Turkmenistan. 🖥️ Cybersecurity specialist. Skilled in Python💻, servers🌐, secure comms🔐, and backend development⚙️."
-https://camo.githubusercontent.com/238b990387de1ab4aad86a298a2c13b6d26684688de4cc996986c4630d5c5e5e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b657276656e6f7626686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d64726163756c61266c6f63616c653d656e26686964655f626f726465723d66616c7365266f726465723d31
+### 📊 GitHub Stats  
+![CyberX's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberX&show_icons=true&theme=tokyonight)  
+
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberX&layout=compact&theme=tokyonight)
